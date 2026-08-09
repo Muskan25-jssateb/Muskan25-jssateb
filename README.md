@@ -31,5 +31,5 @@ I enjoy solving problems, building projects, contributing to open source, and co
 
 ### 🔗 Connect With Me
 
-📧 **Email:** [kumari.muskan.ssmrvpu@gmail.com](mailto:kumari.muskan.ssmrvpu@gmail.com)
+📧 **Email:** [kumari.muskan.ssmrvpu@gmail.com](mailto:kumari.muskan.ssmrvpu@gmail.com)<br>
 💼 **LinkedIn:** [linkedin.com/in/kumari-muskan-461447313](https://www.linkedin.com/in/kumari-muskan-461447313/)
