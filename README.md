@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muskan 👋
 
-<!--
-**Muskan25-jssateb/Muskan25-jssateb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **CSE (AIML) student** and aspiring **Software Developer** graduating in 2027, with a strong interest in **Backend Development, AI/ML, and Data Structures & Algorithms**.
 
-Here are some ideas to get you started:
+💻 I primarily work with **Java** and enjoy building backend applications using **Spring Boot**, along with working with **SQL/MySQL, REST APIs, Git, and Docker**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I'm also exploring **AI/ML, LLMs, and Image Processing**, and I like turning ideas into practical projects.
+
+🧠 Currently focused on:
+
+* Data Structures & Algorithms
+* Java & Spring Boot
+* Backend/API Development
+* AI/ML & LLMs
+* Open Source Contributions
+
+🚀 I enjoy solving problems, building projects, contributing to open source, and continuously improving my development skills.
+
+### Tech Stack
+
+**Languages:** Java, Python, C, SQL
+**Backend:** Spring Boot, REST APIs
+**AI/ML:** Machine Learning, LLMs, Image Processing
+**Tools:** Git, GitHub, Docker, MySQL
+**Core:** DSA, OOP, DBMS, OS
+
+📌 **Currently building, learning, and contributing one project at a time.**
+**Email:** kumari.muskan.ssmrvpu@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/kumari-muskan-461447313/
